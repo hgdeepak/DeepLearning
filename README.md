@@ -1,2 +1,2 @@
 # DeepLearning
-Example Code for Deep Learning
+Example Codes for Deep Learning.
